@@ -142,6 +142,9 @@ Finding realtions between Technology and Humanity is so fascinating.
  
 </table>
 <br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsjeevan&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="iamsjeevan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsjeevan&show_icons=true&locale=en&theme=highcontrast" alt="iamsjeevan" /></p>
 
 ![](https://komarev.com/ghpvc/?username=iamsjeevan&color=brightgreen)
 </div>
